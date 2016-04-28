@@ -1,6 +1,6 @@
 # BookTabEx
 ## What?
-A simple application to extract books from BookTab
+A simple application to extract books from BookTab(Z)
 ## Why?
 We all hate proprietary clients, don't we? PDFs are way easier to read on almost every device.
 I believe there is no reason to install a different app to read more books.
